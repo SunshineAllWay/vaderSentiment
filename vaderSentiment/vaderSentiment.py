@@ -522,7 +522,7 @@ if __name__ == '__main__':
                  "VADER is VERY SMART, handsome, and FUNNY.",  # emphasis for ALLCAPS handled
                  "VADER is VERY SMART, handsome, and FUNNY!!!",
                  # combination of signals - VADER appropriately adjusts intensity
-                 "VADER is VERY SMART, uber handsome, and FRIGGIN FUNNY!!",
+                 "VADER is VERY SMART, uber handsome, and FRIGGIN FUNNY!!!",
                  # booster words & punctuation make this close to ceiling for score
                  "VADER is not smart, handsome, nor funny.",  # negation sentence example
                  "The book was good.",  # positive sentence
